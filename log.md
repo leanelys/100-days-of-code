@@ -13,3 +13,15 @@ Realistically, I don't see myself coding 1+ hours every single day without break
 **Today's Progress**: Finally started doing more technical/hands-on learning. Learned about basic HTML tags and made a crappy lil website to mess around in.
 
 **Thoughts:** Pacing feels a little slow given that TOD is made with total newcomers in mind. I might do more lessons per day to to pick up the pace a little.
+
+### Day 3: December 23, 2024
+
+**Today's Progress**:
+
+**Thoughts:**
+
+### Day 4: December 24, 2024
+
+**Today's Progress**:
+
+**Thoughts:**
