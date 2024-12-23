@@ -8,4 +8,8 @@ Realistically, I don't see myself coding 1+ hours every single day without break
 
 **Thoughts:** Twas a little boring. Especially since I already knew a lot of it but couldn't skip it because I could've missed out on something important. But hopefully I'll be actually coding soon :>
 
-**Link to work:** n/a
+### Day 2: December 22, 2024
+
+**Today's Progress**: Finally started doing more technical/hands-on learning. Learned about basic HTML tags and made a crappy lil website to mess around in.
+
+**Thoughts:** Pacing feels a little slow given that TOD is made with total newcomers in mind. I might do more lessons per day to to pick up the pace a little.
