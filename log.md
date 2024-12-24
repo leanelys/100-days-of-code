@@ -16,11 +16,17 @@ Realistically, I don't see myself coding 1+ hours every single day without break
 
 ### Day 3: December 23, 2024
 
+**Today's Progress**: Learned about linking to other sites. Admittedly didn't do much today cuz of Christmas approaching.
+
+**Thoughts:** Fixing my sleeping schedule would help with productivity...
+
+### Day 4: December 24, 2024
+
 **Today's Progress**:
 
 **Thoughts:**
 
-### Day 4: December 24, 2024
+### Day 5: December 25, 2024
 
 **Today's Progress**:
 
