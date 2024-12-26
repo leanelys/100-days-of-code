@@ -41,6 +41,18 @@ Note to self: Work on writing better commit messages. We always wrote commit mes
 [TOD: Project: Recipes](https://www.theodinproject.com/lessons/foundations-recipes)  
 [REPO: Recipes Website](https://github.com/leanelys/odin-recipes/tree/bb993ec21e1ad4b403940f5c9497074e8a73d593)  
 
+#
 
+### Day X: December 25, 2024
+
+No work today! Merry Christmas :)
 
 #
+
+### Day 5: December 26, 2024
+
+**Today's progress:**
+
+**Thoughts:**
+
+**Link to work:**
