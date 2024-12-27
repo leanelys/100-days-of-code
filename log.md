@@ -51,8 +51,12 @@ No work today! Merry Christmas :)
 
 ### Day 5: December 26, 2024
 
-**Today's progress:**
+**Today's Progress**: Started the CSS section of TOD. Did 5 practice problems provided by the course.
 
-**Thoughts:**
+**Thoughts:** They tackled a lot of topics in one single lesson, which confused me because it hadn't felt that way so far. Need to research the things discussed a little further, 
+especially [chaining selectors](https://www.theodinproject.com/lessons/foundations-intro-to-css#chaining-selectors) and [combinators](https://www.theodinproject.com/lessons/foundations-intro-to-css#descendant-combinator).
 
-**Link to work:**
+**Link to work:** [TOD: Intro to CSS](https://www.theodinproject.com/lessons/foundations-intro-to-css)  
+[REPO: Practice excercises](https://github.com/leanelys/css-exercises)
+
+#
