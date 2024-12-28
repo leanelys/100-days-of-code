@@ -43,7 +43,7 @@ Note to self: Work on writing better commit messages. We always wrote commit mes
 
 #
 
-### Day X: December 25, 2024
+### ~~Day 5:~~ December 25, 2024
 
 No work today! Merry Christmas :)
 
@@ -58,5 +58,16 @@ especially [chaining selectors](https://www.theodinproject.com/lessons/foundatio
 
 **Link to work:** [TOD: Intro to CSS](https://www.theodinproject.com/lessons/foundations-intro-to-css)  
 [REPO: Practice excercises](https://github.com/leanelys/css-exercises)
+
+#
+
+### Day 6: December 27, 2024
+
+**Today's Progress**: Not a lot of code to show, I just studied the concepts from yesterday a bit more. 
+Finished reading the cascade section in TOP but didn't get a chance to do the excercises. Tomorrow I will :)
+
+**Thoughts:** I might've not done much coding but I was out most of the day and was also fixing up my resume so... future me don't be disappointed I swear I was productive lol
+
+**Link to work:** [TOP: The Cascade](https://www.theodinproject.com/lessons/foundations-the-cascade)
 
 #
