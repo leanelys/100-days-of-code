@@ -71,3 +71,15 @@ Finished reading the cascade section in TOP but didn't get a chance to do the ex
 **Link to work:** [TOP: The Cascade](https://www.theodinproject.com/lessons/foundations-the-cascade)
 
 #
+
+### Day 7: December 28, 2024
+
+**Today's Progress**: Mostly theory stuff. Lots of YouTube videos and not enough code to put in the link to work section.
+
+**Thoughts:** none
+
+**Link to work:** [TOP: Inspecting HTML and CSS](https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css)  
+[TOP: The Box Model](https://www.theodinproject.com/lessons/foundations-the-box-model)  
+[TOP: Block and Inline](https://www.theodinproject.com/lessons/foundations-block-and-inline)
+
+#
