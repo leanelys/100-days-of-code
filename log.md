@@ -83,3 +83,15 @@ Finished reading the cascade section in TOP but didn't get a chance to do the ex
 [TOP: Block and Inline](https://www.theodinproject.com/lessons/foundations-block-and-inline)
 
 #
+
+### Day 7: December 28, 2024
+
+**Today's Progress**: Finished some TOD excercises and tinkered with the old recipes website I made earlier in the course.
+
+**Thoughts:** I think I need to slow down and stop going through TOD lessons until I have the previous lessons down well.
+I don't feel like I know the material from a couple lessons ago well enough to proceed.
+Going forward with these gaps in my knowledge would be shooting myself in the foot... at least, I think so.
+
+**Link to work:** [REPO: Odin Recipes website](https://github.com/leanelys/odin-recipes/commit/f2dfac2fe0e1dd358e970c3b928b711a4572b00e)
+
+#
