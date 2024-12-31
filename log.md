@@ -84,7 +84,7 @@ Finished reading the cascade section in TOP but didn't get a chance to do the ex
 
 #
 
-### Day 7: December 28, 2024
+### Day 8: December 29, 2024
 
 **Today's Progress**: Finished some TOD excercises and tinkered with the old recipes website I made earlier in the course.
 
@@ -93,5 +93,16 @@ I don't feel like I know the material from a couple lessons ago well enough to p
 Going forward with these gaps in my knowledge would be shooting myself in the foot... at least, I think so.
 
 **Link to work:** [REPO: Odin Recipes website](https://github.com/leanelys/odin-recipes/commit/f2dfac2fe0e1dd358e970c3b928b711a4572b00e)
+
+#
+
+### Day 9: December 30, 2024
+
+**Today's Progress**: Learned a bit about flexbox. Watched a couple YouTube videos and read about previous concepts.
+
+**Thoughts:** Might not do much tomorrow because of new year's but we'll see! 
+
+**Link to work:** [TOD: Introduction to Flexbox](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox)  
+[TOD: Growing and Shrinking](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
 
 #
