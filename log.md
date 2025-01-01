@@ -106,3 +106,9 @@ Going forward with these gaps in my knowledge would be shooting myself in the fo
 [TOD: Growing and Shrinking](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
 
 #
+
+### ~~Day 10:~~ December 31, 2024
+
+I was gonna do stuff today, but there is an islandwide blackout. Happy new year. :(
+
+#
