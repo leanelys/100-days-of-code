@@ -112,3 +112,9 @@ Going forward with these gaps in my knowledge would be shooting myself in the fo
 I was gonna do stuff today, but there is an islandwide blackout. Happy new year. :(
 
 #
+
+### ~~Day 10:~~ January 1 and 2, 2025
+
+yay power outages!!!
+
+#
