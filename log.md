@@ -118,3 +118,15 @@ I was gonna do stuff today, but there is an islandwide blackout. Happy new year.
 yay power outages!!!
 
 #
+
+### Day 10: January 3, 2025
+
+**Today's Progress**: A couple of flex excercises and reading.
+
+**Thoughts:** The power outages kinda messed with my momentum :< Hopefully I can get it back. These new topics have proven to be a bit challenging.
+
+**Link to work:** [TOP: Axes](https://www.theodinproject.com/lessons/foundations-axes)  
+[TOP: Alignment](https://www.theodinproject.com/lessons/foundations-alignment)  
+[REPO: Flex excercises](https://github.com/leanelys/css-exercises/tree/main/foundations/flex)
+
+#
