@@ -130,3 +130,14 @@ yay power outages!!!
 [REPO: Flex excercises](https://github.com/leanelys/css-exercises/tree/main/foundations/flex)
 
 #
+
+### Day 11: January 4, 2025
+
+**Today's Progress**: Tried the TOD Flexbox excercises but struggled. Spent some time looking through alternate sources.
+Did all the levels in a little Flexbox game called [Flexbox Froggy](https://flexboxfroggy.com/).
+
+**Thoughts**: Tomorrow I'll try and follow a crash course on Flexbox on YouTube or something to fill in the gaps of knowledge I have currently.
+
+**Link o work:** n/a
+
+#
