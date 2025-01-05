@@ -138,6 +138,18 @@ Did all the levels in a little Flexbox game called [Flexbox Froggy](https://flex
 
 **Thoughts**: Tomorrow I'll try and follow a crash course on Flexbox on YouTube or something to fill in the gaps of knowledge I have currently.
 
-**Link o work:** n/a
+**Link to work:** n/a
+
+#
+
+### Day 12: January 5, 2025
+
+**Today's Progress**: Did more TOD Flexbox excercises. I'm finally getting a bit of a better understanding.
+The excercises involved making a bunch of different web pages and elements. Started but didn't finish the last excercise.
+
+**Thoughts**: Glad I'm understanding a bit better cuz I was getting a bit frustrated lol. Still need more practice but it's progress!  
+Might not do much tomorrow because it's a holiday :v 
+
+**Link to work:** [REPO: Flex excercises](https://github.com/leanelys/css-exercises/tree/main/foundations/flex)
 
 #
