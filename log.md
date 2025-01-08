@@ -153,3 +153,21 @@ Might not do much tomorrow because it's a holiday :v
 **Link to work:** [REPO: Flex excercises](https://github.com/leanelys/css-exercises/tree/main/foundations/flex)
 
 #
+
+### ~~Day 13:~~ January 6, 2025
+
+Holiday! Feliz día de reyes :p
+
+#
+
+### Day 13: January 7, 2025
+
+**Today's Progress**: Finished the Flexbox TOD excercises finallyyy. Also started the project for the flexbox category.
+Making ok progress on it! Did the header and the hero section. Missing an info section, a quote section, and the footer.
+
+**Thoughts**: I'll probably run into formatting issues eventually (especially with the footer arghhh) but let's worry about that when it matters.
+
+**Link to work:** [TOD: Project: Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)  
+[REPO: Landing page](https://github.com/leanelys/TOD-Landing-Page/commit/36e1543aaae16649eac2a0f182f8afecab758bee)
+
+#
