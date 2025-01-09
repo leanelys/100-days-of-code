@@ -171,3 +171,17 @@ Making ok progress on it! Did the header and the hero section. Missing an info s
 [REPO: Landing page](https://github.com/leanelys/TOD-Landing-Page/commit/36e1543aaae16649eac2a0f182f8afecab758bee)
 
 #
+
+### Day 14: January 8, 2025
+
+**Today's Progress**: Did the whole landing page project. The margins on the sides of the page are a lil funky but it should be fine for now.
+
+**Thoughts:** Finally getting my momentum back :D
+
+**Link to work:** [LIVE LINK: Landing page](https://leanelys.github.io/TOD-Landing-Page/)  
+[TOP: Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)  
+[REPO: Landing Page](https://github.com/leanelys/TOD-Landing-Page/commit/3c898dd6eb5cfc5a3b7935b237417fd0e7efed81)  
+[TOP: JS Variables and Operators](https://www.theodinproject.com/lessons/foundations-variables-and-operators)  
+[TOP: Installing Node JS](https://www.theodinproject.com/lessons/foundations-installing-node-js)  
+
+#
