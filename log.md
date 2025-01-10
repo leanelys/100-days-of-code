@@ -26,6 +26,17 @@ Realistically, I don't see myself coding 1+ hours every single day without break
 
 #
 
+### Day 15: January 9, 2025
+
+**Today's Progress**: Started on Javascript! Not much is new to me, mostly learning syntax and the such.
+
+**Thoughts:** n/a
+
+**Link to work:** [TOP: Data Types and Conditionals](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals#assignment)  
+[TOP: JS Dev Tools](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools)  
+[REPO: Messing with JS](https://github.com/leanelys/TOD-testing/commit/9971cdbaa8f4bbce8ab876950f5d508a9e482773)
+
+#
 ### Day 4: December 24, 2024
 
 **Today's Progress**: Did the first project of the course: making a crummy little recipes website using only HTML.
@@ -183,5 +194,17 @@ Making ok progress on it! Did the header and the hero section. Missing an info s
 [REPO: Landing Page](https://github.com/leanelys/TOD-Landing-Page/commit/3c898dd6eb5cfc5a3b7935b237417fd0e7efed81)  
 [TOP: JS Variables and Operators](https://www.theodinproject.com/lessons/foundations-variables-and-operators)  
 [TOP: Installing Node JS](https://www.theodinproject.com/lessons/foundations-installing-node-js)  
+
+#
+
+### Day 15: January 9, 2025
+
+**Today's Progress**: Started on Javascript! Not much is new to me, mostly learning syntax and the such.
+
+**Thoughts:** n/a
+
+**Link to work:** [TOP: Data Types and Conditionals](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals#assignment)  
+[TOP: JS Dev Tools](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools)  
+[REPO: Messing with JS](https://github.com/leanelys/TOD-testing/commit/9971cdbaa8f4bbce8ab876950f5d508a9e482773)
 
 #
