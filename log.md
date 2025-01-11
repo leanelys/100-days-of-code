@@ -208,3 +208,17 @@ Making ok progress on it! Did the header and the hero section. Missing an info s
 [REPO: Messing with JS](https://github.com/leanelys/TOD-testing/commit/9971cdbaa8f4bbce8ab876950f5d508a9e482773)
 
 #
+
+### Day 16: January 10, 2025
+
+**Today's Progress**: Lots of skimming since I already know basic programming concepts :v bleh
+
+**Thoughts:** I wanna get to the final projects so bad already lol
+
+**Link to work:** [TOP: Function Basics](https://www.theodinproject.com/lessons/foundations-function-basics)  
+[TOP: Problem Solving](https://www.theodinproject.com/lessons/foundations-problem-solving)  
+[TOP: Understanding Errors](https://www.theodinproject.com/lessons/foundations-understanding-errors)  
+[REPO: Rock, Paper, Scissors](https://github.com/leanelys/TOD-testing/tree/main/rock-paper-scissors)  
+[TOP: Clean Code](https://www.theodinproject.com/lessons/foundations-clean-code)  
+
+#
