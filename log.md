@@ -233,3 +233,13 @@ Making ok progress on it! Did the header and the hero section. Missing an info s
 [REPO: JS Excercises](https://github.com/leanelys/javascript-exercises)
 
 #
+
+### Day 18: January 12, 2025
+
+**Today's Progress**: Busy day, I started learning about DOM manipulation with JS but didn't get to do much.
+
+**Thoughts:** Excited to get to the JS projects :p
+
+**Link to work:** [TOP: DOM Manipulation and Events](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events)
+
+#
