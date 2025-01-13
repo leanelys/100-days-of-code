@@ -222,3 +222,14 @@ Making ok progress on it! Did the header and the hero section. Missing an info s
 [TOP: Clean Code](https://www.theodinproject.com/lessons/foundations-clean-code)  
 
 #
+
+### Day 17: January 11, 2025
+
+**Today's Progress**: Did some simple array and loop excercises in JS.
+
+**Thoughts:** they were mostly rly beginner and easy but i got humbled by one of them omg kinda embarassing lol
+
+**Link to work:** [TOD: Arrays and Loops](https://www.theodinproject.com/lessons/foundations-arrays-and-loops)  
+[REPO: JS Excercises](https://github.com/leanelys/javascript-exercises)
+
+#
