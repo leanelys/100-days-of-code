@@ -243,3 +243,13 @@ Making ok progress on it! Did the header and the hero section. Missing an info s
 **Link to work:** [TOP: DOM Manipulation and Events](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events)
 
 #
+
+### Day 19: January 13, 2025
+
+**Today's Progress**: Also did not do much T_T Watched videos on DOM manipulation and read the rest of the TOP lesson.
+
+**Thoughts:** Hopefully my momentum doesn't fall off because of school :,)
+
+**Link to work:** [TOP: DOM Manipulation and Events](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events)
+
+ #
