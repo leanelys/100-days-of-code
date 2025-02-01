@@ -277,3 +277,13 @@ Making ok progress on it! Did the header and the hero section. Missing an info s
 **Link to work:** [TOP: DOM Manipulation and Events](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events)
 
 #
+
+### Day 22: January 31, 2025
+
+**Today's Progress**: Read up on DOM manipulation a bit more and started refactoring the rock paper scissors excercise I did a while back.
+
+**Thoughts:** I should've started earlier haha, I had to stop because I'm so sleepy I can't focus :v
+
+**Link to work:** [TOP: Revisiting Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors)
+
+#
